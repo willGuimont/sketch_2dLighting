@@ -54,7 +54,7 @@ int cooldownMain = 20;
 int cooldownP = 20;
 int t = 0;
 
-int enemySpawn = 250;
+int enemySpawn = 150;
 int e = 0;
 
 int powerSpawn = 300;
