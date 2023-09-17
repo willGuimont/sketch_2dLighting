@@ -1,3 +1,7 @@
 # sketch_2dLighting
 
-Run it in [Processing](https://processing.org/)
+Top down shooter with dynamic shadows.
+
+Run it in [Processing](https://processing.org/).
+
+![Game](img/game.png)
