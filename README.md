@@ -1,3 +1,3 @@
 # sketch_2dLighting
 
-Old project
+Run it in [Processing](https://processing.org/)
